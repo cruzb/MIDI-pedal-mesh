@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : LF50ABDT.LibPkg
+
+Section : C:\Users\cxlight\Downloads\LF50ABDT\LF50ABDT.lia
+    Section : PCB Library - LF50ABDT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 113
+            Warning - 1 : Skipping Token isVisible On Line 114
+            Warning - 1 : Skipping Token isVisible On Line 115
+            Warning - 1 : Skipping Token isVisible On Line 116
+            Warning - 1 : Skipping Token isVisible On Line 141
+            Warning - 1 : Skipping Token isVisible On Line 142
+            Warning - 1 : Skipping Token isVisible On Line 143
+            Warning - 1 : Skipping Token isVisible On Line 144
+            Warning - 1 : Skipping Token V-REG-3-FIX On Line 166
+            Warning - 1 : Skipping Token attachedSymbol On Line 226
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LF50ABDT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token isVisible On Line 201
+            Warning - 1 : Skipping Token isVisible On Line 202
+            Warning - 1 : Skipping Token isVisible On Line 203
+        EndSection
+
+        Section : Generating SCH Library - LF50ABDT.SchLib
+        EndSection
+    EndSection
+EndSection

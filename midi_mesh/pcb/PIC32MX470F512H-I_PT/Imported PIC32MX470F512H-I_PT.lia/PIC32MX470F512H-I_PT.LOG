@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : PIC32MX470F512H-I_PT.LibPkg
+
+Section : C:\Users\sphaney\Downloads\PIC32MX470F512H-I_PT\PIC32MX470F512H-I_PT.lia
+    Section : PCB Library - PIC32MX470F512H-I_PT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PIC32MX470F512H-I/PT On Line 187
+            Warning - 1 : Skipping Token attachedSymbol On Line 854
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PIC32MX470F512H-I_PT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 168
+            Warning - 1 : Skipping Token layerContents On Line 179
+        EndSection
+
+        Section : Generating SCH Library - PIC32MX470F512H-I_PT.SchLib
+        EndSection
+    EndSection
+EndSection

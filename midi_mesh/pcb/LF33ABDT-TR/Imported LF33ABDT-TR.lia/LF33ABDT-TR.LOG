@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : LF33ABDT-TR.LibPkg
+
+Section : C:\Users\cxlight\Downloads\LF33ABDT-TR\LF33ABDT-TR.lia
+    Section : PCB Library - LF33ABDT-TR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LF33ABDT-TR On Line 147
+            Warning - 1 : Skipping Token attachedSymbol On Line 204
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LF33ABDT-TR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 139
+        EndSection
+
+        Section : Generating SCH Library - LF33ABDT-TR.SchLib
+        EndSection
+    EndSection
+EndSection

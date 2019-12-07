@@ -3,13 +3,14 @@ Digital music production today has a lot of limits. In an analog world a musicia
 
 Effects pedals are a common tool used by guitarists to modify the sound of their instrument. These devices are often designed to make one specific sound. The aim of the “Pedal” is to create a customizable audio processing device that gives users direct access to DSP hardware while maintaining the functionality and ease of use that musicians expect.
 
-![The Pedal and Mesh Together](https://i.imgur.com/SzgMY6j.jpg)
-
+### Watch this video to see it in action
 [![Watch the video](https://i.imgur.com/Uck8nC0.jpg)](https://www.youtube.com/watch?v=qIbVKWIkZBc)
 
 ## Implementation
 ### Overview
 The Mesh and Pedal work as standard audio components that can fit seamlessly into any musician’s kit. The Mesh outputs a MIDI signal which can be use to generate sound through any MIDI-capable synthesizer. The Pedal takes in analog audio and performs effects processing on it before outputting it to an amplifier or speaker for play. These devices can work in tandem, independently, or with other music devices.
+
+![How it Works Together](https://i.imgur.com/jpbeJkH.png)
 
 ### Pedal
 - Users create effects programs on desktop and upload to the device EEPROM via a desktop application and USB connection

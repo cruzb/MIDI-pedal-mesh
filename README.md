@@ -46,4 +46,4 @@ Three PCBs were created for this project. One for the pedal and two for the mesh
 - TAL221 Load Cell
 - AD620 Differential Amplifier
 
-
+### Made with Jordan Frank, Ethan Brown, Charlie Light, and Spencer Haney for University of Michigan EECS 473
